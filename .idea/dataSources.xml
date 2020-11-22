@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Rails diaryapi: production" uuid="cebe3a95-5505-445a-8252-dc1eb05a5598">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/diaryapi_production</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails diaryapi: test" uuid="611c8ea7-92fe-40b7-908e-72ed0f57e79d">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://127.0.0.1:5432/diaryapi_test</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="Rails diaryapi: development" uuid="627b0239-9e2f-4a48-835d-5b2f3f6dd038">
+      <driver-ref>postgresql</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>$PROJECT_DIR$/config/database.yml</remarks>
+      <jdbc-driver>org.postgresql.Driver</jdbc-driver>
+      <jdbc-url>jdbc:postgresql://localhost:5432/diaryapi_development</jdbc-url>
+    </data-source>
+  </component>
+</project>
