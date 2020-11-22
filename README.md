@@ -7,13 +7,3 @@
 * Database - Postgresql
 
 * System dependencies - Redis
-
-* Database creation
-
-* Database initialization
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
