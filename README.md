@@ -24,5 +24,4 @@ Get note by id    |      GET      | /api/notes/:id  |       -       |
 Get all notes     |      GET      |  /api/notes/    |       -       |
 
 # Launching
->>sidekiq
->>rails s
+`sidekiq` <br/> `rails s`
