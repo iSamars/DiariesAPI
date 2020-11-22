@@ -22,3 +22,7 @@ Update note       |   PUT/PATCH   | /api/notes/:id  | Updated Note  | text, diar
 Delete note       |     DELETE    | /api/notes/:id  |       -       |
 Get note by id    |      GET      | /api/notes/:id  |       -       |
 Get all notes     |      GET      |  /api/notes/    |       -       |
+
+# Launching
+>>sidekiq
+>>rails s
