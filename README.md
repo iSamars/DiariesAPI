@@ -1,4 +1,4 @@
-# DiariesApi
+ DiariesApi
 
 * Ruby version - 2.7.*
 
@@ -25,3 +25,6 @@ Get all notes     |      GET      |  /api/notes/    |       -       |
 
 # Launching
 `>>sidekiq` <br/> `>>rails s`
+# Sidekiq authorization
+__Login__: admin <br/>
+__Password__: admin
